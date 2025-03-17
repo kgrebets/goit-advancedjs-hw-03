@@ -45,6 +45,7 @@ button[type='submit'] {
 }
 
 .loader {
+  display: block;
   border: 8px solid #f3f3f3;
   border-top: 8px solid #1296f0;
   border-radius: 50%;
