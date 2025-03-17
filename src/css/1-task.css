@@ -4,7 +4,7 @@ body {
   padding: 20px;
 }
 
-#search-form {
+.form {
   display: flex;
   justify-content: center;
   margin-bottom: 20px;

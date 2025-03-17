@@ -4,9 +4,9 @@ import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
-import './css/styles.css'
+import './css/styles.css';
 
-const form = document.querySelector('#search-form');
+const form = document.querySelector('.form');
 const loader = document.querySelector('.loader');
 
 const lightbox = new SimpleLightbox('.gallery a', {
